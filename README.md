@@ -72,11 +72,11 @@ Open the gold_price_prediction.ipynb file and follow the step-by-step instructio
 
 ## 7. Results in Test
 
-    | Metric    |  Value |
-    |-----------|--------|
-    | Mean Absolute Error  |  1.34   |
-    | Root Mean Squared Error	 |  2.40   |
-    | R-squared (R²)    | 0.98  |
+| Metric    |  Value |
+|-----------|--------|
+| Mean Absolute Error  |  1.34   |
+| Root Mean Squared Error	 |  2.40   |
+| R-squared (R²)    | 0.98  |
 
 
 ## 8. Contributing
